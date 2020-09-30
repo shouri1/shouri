@@ -1,0 +1,5 @@
+To pull the files from github
+process:
+1. check the branch: git checkout branch name
+2.push the files: git push origin master
+3.git fetch
